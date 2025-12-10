@@ -125,10 +125,7 @@ streamlit run streamlit_app.py
 
 * Project Demo
 
-(If deployed on Streamlit Cloud, paste the link here)
-COMING SOON
-
-* Project Structure
+ Project Structure
 my_project/
 │
 ├── data/
